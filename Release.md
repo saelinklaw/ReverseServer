@@ -1,1 +1,3 @@
-### New
+### Fix
+
+* Reduce binary file size.
